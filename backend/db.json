@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+ ",
+      "price": "7000.89"
+    },
+    {
+      "name": "Geladeira",
+      "price": "1890.44",
+      "id": 5
+    },
+    {
+      "name": "Notebook",
+      "price": "3567.00",
+      "id": 6
+    },
+    {
+      "name": "Raposodio",
+      "price": "666.55",
+      "id": 8
+    },
+    {
+      "name": "Fogão",
+      "price": "54151.65",
+      "id": 10
+    },
+    {
+      "name": "Novo",
+      "price": "666.55",
+      "id": 11
+    },
+    {
+      "name": "Muryllo",
+      "price": "999.99",
+      "id": 12
+    },
+    {
+      "name": "Cadeira Gamer",
+      "price": "2999.50",
+      "id": 13
+    }
+  ]
+}
